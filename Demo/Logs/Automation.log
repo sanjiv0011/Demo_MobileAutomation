@@ -1,0 +1,492 @@
+17:28:42.691 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 5
+17:28:44.172 [main] INFO  Mobile.Demo.Caclulator - Clicked on the multiply button
+17:28:44.820 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 3
+17:28:45.763 [main] INFO  Mobile.Demo.Caclulator - Clicked on the equal button
+17:28:47.126 [main] INFO  Mobile.Demo.Caclulator - Result cleared
+17:28:48.355 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 9
+17:28:49.525 [main] INFO  Mobile.Demo.Caclulator - Clicked on the divide button
+17:28:50.426 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 3
+17:28:50.960 [main] INFO  Mobile.Demo.Caclulator - Clicked on the equal button
+17:28:51.960 [main] INFO  Mobile.Demo.Caclulator - Result cleared
+17:28:54.320 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 8
+17:28:54.966 [main] INFO  Mobile.Demo.Caclulator - Clicked on the minus button
+17:28:56.145 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 5
+17:28:57.433 [main] INFO  Mobile.Demo.Caclulator - Clicked on the equal button
+17:28:58.610 [main] INFO  Mobile.Demo.Caclulator - Result cleared
+17:29:00.810 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 8
+17:29:01.447 [main] INFO  Mobile.Demo.Caclulator - Clicked on the plus button
+17:29:02.621 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 2
+17:29:03.821 [main] INFO  Mobile.Demo.Caclulator - Clicked on the equal button
+17:29:05.092 [main] INFO  Mobile.Demo.Caclulator - Result cleared
+17:40:07.716 [main] INFO  Mobile.Demo.Caclulator - Start to set capabilities
+17:40:07.723 [main] INFO  Mobile.Demo.Caclulator - Start finding the url
+17:40:37.998 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 5
+17:40:39.010 [main] INFO  Mobile.Demo.Caclulator - Clicked on the multiply button
+17:40:40.094 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 3
+17:40:41.410 [main] INFO  Mobile.Demo.Caclulator - Clicked on the equal button
+17:51:18.265 [main] INFO  Mobile.Demo.Caclulator - Start to set capabilities
+17:51:18.271 [main] INFO  Mobile.Demo.Caclulator - Start finding the url
+17:51:43.786 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 5
+17:51:44.882 [main] INFO  Mobile.Demo.Caclulator - Clicked on the multiply button
+17:51:46.371 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 3
+17:51:47.660 [main] INFO  Mobile.Demo.Caclulator - Clicked on the equal button
+17:51:48.874 [main] INFO  Mobile.Demo.Caclulator - resultFromCalc: Calculator
+17:51:48.874 [main] INFO  Mobile.Demo.Caclulator - Exception from: multiplicationFor input string: "Calculator"
+18:23:38.634 [main] INFO  Mobile.Demo.Caclulator - Start to set capabilities
+18:23:38.641 [main] INFO  Mobile.Demo.Caclulator - Start finding the url
+18:25:15.414 [main] INFO  Mobile.Demo.Caclulator - Start to set capabilities
+18:25:15.423 [main] INFO  Mobile.Demo.Caclulator - Start finding the url
+18:26:12.608 [main] INFO  Mobile.Demo.Caclulator - Start to set capabilities
+18:26:12.617 [main] INFO  Mobile.Demo.Caclulator - Start finding the url
+18:28:46.665 [main] INFO  Mobile.Demo.Caclulator - Start to set capabilities
+18:28:46.673 [main] INFO  Mobile.Demo.Caclulator - Start finding the url
+18:29:59.028 [main] INFO  Mobile.Demo.Caclulator - Start to set capabilities
+18:29:59.035 [main] INFO  Mobile.Demo.Caclulator - Start finding the url
+18:31:40.822 [main] INFO  Mobile.Demo.Caclulator - Start to set capabilities
+18:31:40.828 [main] INFO  Mobile.Demo.Caclulator - Start finding the url
+18:36:02.612 [main] INFO  Mobile.Demo.Caclulator - Start to set capabilities
+18:36:02.637 [main] INFO  Mobile.Demo.Caclulator - Start finding the url
+18:36:45.793 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 5
+18:36:46.495 [main] INFO  Mobile.Demo.Caclulator - Clicked on the multiply button
+18:36:48.128 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 3
+18:36:48.679 [main] INFO  Mobile.Demo.Caclulator - Clicked on the equal button
+18:36:49.322 [main] INFO  Mobile.Demo.Caclulator - Result cleared
+18:37:57.935 [main] INFO  Mobile.Demo.Caclulator - Start to set capabilities
+18:37:57.941 [main] INFO  Mobile.Demo.Caclulator - Start finding the url
+18:38:25.515 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 5
+18:38:26.112 [main] INFO  Mobile.Demo.Caclulator - Clicked on the multiply button
+18:38:26.753 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 3
+18:38:27.373 [main] INFO  Mobile.Demo.Caclulator - Clicked on the equal button
+18:38:28.402 [main] INFO  Mobile.Demo.Caclulator - Result cleared
+18:38:29.434 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 9
+18:38:30.074 [main] INFO  Mobile.Demo.Caclulator - Clicked on the divide button
+18:38:30.712 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 3
+18:38:31.332 [main] INFO  Mobile.Demo.Caclulator - Clicked on the equal button
+18:38:32.409 [main] INFO  Mobile.Demo.Caclulator - Result cleared
+18:38:33.445 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 8
+18:38:34.079 [main] INFO  Mobile.Demo.Caclulator - Clicked on the minus button
+18:38:34.718 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 5
+18:38:35.342 [main] INFO  Mobile.Demo.Caclulator - Clicked on the equal button
+18:38:36.432 [main] INFO  Mobile.Demo.Caclulator - Result cleared
+18:38:37.467 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 8
+18:38:38.110 [main] INFO  Mobile.Demo.Caclulator - Clicked on the plus button
+18:38:38.746 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 2
+18:38:39.375 [main] INFO  Mobile.Demo.Caclulator - Clicked on the equal button
+18:38:40.436 [main] INFO  Mobile.Demo.Caclulator - Result cleared
+18:39:47.465 [main] INFO  Mobile.Demo.Caclulator - Start to set capabilities
+18:39:47.474 [main] INFO  Mobile.Demo.Caclulator - Start finding the url
+18:40:10.635 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 5
+18:40:11.834 [main] INFO  Mobile.Demo.Caclulator - Clicked on the multiply button
+18:40:12.995 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 3
+18:40:14.168 [main] INFO  Mobile.Demo.Caclulator - Clicked on the equal button
+18:40:14.817 [main] INFO  Mobile.Demo.Caclulator - Result cleared
+18:40:16.130 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 9
+18:40:17.162 [main] INFO  Mobile.Demo.Caclulator - Clicked on the divide button
+18:40:17.807 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 3
+18:40:19.137 [main] INFO  Mobile.Demo.Caclulator - Clicked on the equal button
+18:40:21.621 [main] INFO  Mobile.Demo.Caclulator - Result cleared
+18:40:22.947 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 8
+18:40:23.590 [main] INFO  Mobile.Demo.Caclulator - Clicked on the minus button
+18:40:24.954 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 5
+18:40:26.471 [main] INFO  Mobile.Demo.Caclulator - Clicked on the equal button
+18:40:27.823 [main] INFO  Mobile.Demo.Caclulator - Result cleared
+18:40:29.003 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 8
+18:40:30.144 [main] INFO  Mobile.Demo.Caclulator - Clicked on the plus button
+18:40:30.776 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 2
+18:40:32.807 [main] INFO  Mobile.Demo.Caclulator - Clicked on the equal button
+18:40:34.247 [main] INFO  Mobile.Demo.Caclulator - Result cleared
+18:41:16.668 [main] INFO  Mobile.Demo.Caclulator - Start to set capabilities
+18:41:16.674 [main] INFO  Mobile.Demo.Caclulator - Start finding the url
+18:41:41.838 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 5
+18:41:42.978 [main] INFO  Mobile.Demo.Caclulator - Clicked on the multiply button
+18:41:44.086 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 3
+18:41:45.202 [main] INFO  Mobile.Demo.Caclulator - Clicked on the equal button
+18:41:45.840 [main] INFO  Mobile.Demo.Caclulator - Result cleared
+18:41:47.146 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 9
+18:41:48.120 [main] INFO  Mobile.Demo.Caclulator - Clicked on the divide button
+18:41:49.041 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 3
+18:41:49.997 [main] INFO  Mobile.Demo.Caclulator - Clicked on the equal button
+18:41:50.639 [main] INFO  Mobile.Demo.Caclulator - Result cleared
+18:41:51.752 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 8
+18:41:53.667 [main] INFO  Mobile.Demo.Caclulator - Clicked on the minus button
+18:41:53.697 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 5
+18:41:54.320 [main] INFO  Mobile.Demo.Caclulator - Clicked on the equal button
+18:41:55.356 [main] INFO  Mobile.Demo.Caclulator - Result cleared
+18:41:56.397 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 8
+18:41:57.541 [main] INFO  Mobile.Demo.Caclulator - Clicked on the plus button
+18:41:58.515 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 2
+18:41:59.777 [main] INFO  Mobile.Demo.Caclulator - Clicked on the equal button
+18:42:01.710 [main] INFO  Mobile.Demo.Caclulator - Result cleared
+18:45:27.214 [main] INFO  Mobile.Demo.Caclulator - Start to set capabilities
+18:45:27.229 [main] INFO  Mobile.Demo.Caclulator - Start finding the url
+18:45:49.094 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 5
+18:45:50.361 [main] INFO  Mobile.Demo.Caclulator - Clicked on the multiply button
+18:45:51.830 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 3
+18:45:52.959 [main] INFO  Mobile.Demo.Caclulator - Clicked on the equal button
+18:45:54.342 [main] INFO  Mobile.Demo.Caclulator - Result cleared
+18:45:55.468 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 9
+18:45:56.578 [main] INFO  Mobile.Demo.Caclulator - Clicked on the divide button
+18:45:57.682 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 3
+18:45:59.040 [main] INFO  Mobile.Demo.Caclulator - Clicked on the equal button
+18:46:01.631 [main] INFO  Mobile.Demo.Caclulator - Result cleared
+18:46:02.895 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 8
+18:46:04.341 [main] INFO  Mobile.Demo.Caclulator - Clicked on the minus button
+18:46:05.576 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 5
+18:46:06.872 [main] INFO  Mobile.Demo.Caclulator - Clicked on the equal button
+18:46:08.315 [main] INFO  Mobile.Demo.Caclulator - Result cleared
+18:46:10.647 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 8
+18:46:11.199 [main] INFO  Mobile.Demo.Caclulator - Clicked on the plus button
+18:46:12.303 [main] INFO  Mobile.Demo.Caclulator - Clicked on digit 2
+18:46:13.870 [main] INFO  Mobile.Demo.Caclulator - Clicked on the equal button
+18:46:15.144 [main] INFO  Mobile.Demo.Caclulator - Result cleared
+14:29:13.653 [main] INFO  Mobile.DemoDailer.Dailer - Start to set capabilities
+14:29:13.660 [main] INFO  Mobile.DemoDailer.Dailer - Start finding the url
+14:31:52.557 [main] INFO  Mobile.DemoDailer.Dailer - Main methods started
+14:31:52.569 [main] INFO  Mobile.DemoDailer.Dailer - Start to set capabilities
+14:31:52.569 [main] INFO  Mobile.DemoDailer.Dailer - Start finding the url
+14:36:05.987 [main] INFO  Mobile.DemoDailer.Dailer - Main methods started
+14:36:05.999 [main] INFO  Mobile.DemoDailer.Dailer - Start to set capabilities
+14:36:06.002 [main] INFO  Mobile.DemoDailer.Dailer - Server url matched
+14:36:40.390 [main] INFO  Mobile.DemoDailer.OpenDialerAVD - Main method started
+14:36:40.399 [main] INFO  Mobile.DemoDailer.OpenDialerAVD - Start setting desired capabitlies
+14:36:45.477 [main] INFO  Mobile.DemoDailer.OpenDialerAVD - Exception From: Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: 'app' option is required for reinstall
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-7AKMRUB', ip: '192.168.1.14', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: 'app' option is required for reinstall
+    at getResponseForW3CError (C:\Program Files\Appium Server GUI\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Program Files\Appium Server GUI\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:380:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-7AKMRUB', ip: '192.168.1.14', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: driver.version: AndroidDriver
+14:39:03.251 [main] INFO  Mobile.DemoDailer.OpenDialerAVD - Main method started
+14:39:03.264 [main] INFO  Mobile.DemoDailer.OpenDialerAVD - Start setting desired capabitlies
+14:39:04.415 [main] INFO  Mobile.DemoDailer.OpenDialerAVD - Exception From: Unable to create a new remote session. Please check the server log for more details. Original error: The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 206 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-7AKMRUB', ip: '192.168.1.14', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: driver.version: AndroidDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-7AKMRUB', ip: '192.168.1.14', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: driver.version: AndroidDriver
+14:41:35.912 [main] INFO  Mobile.DemoDailer.OpenDialerAVD - Main method started
+14:41:35.935 [main] INFO  Mobile.DemoDailer.OpenDialerAVD - Start setting desired capabitlies
+14:41:47.510 [main] INFO  Mobile.DemoDailer.OpenDialerAVD - Exception From: Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: 'app' option is required for reinstall
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-7AKMRUB', ip: '192.168.1.14', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: 'app' option is required for reinstall
+    at getResponseForW3CError (C:\Program Files\Appium Server GUI\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Program Files\Appium Server GUI\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:380:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-7AKMRUB', ip: '192.168.1.14', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: driver.version: AndroidDriver
+14:46:32.633 [main] INFO  Mobile.DemoDailer.OpenDialerAVD - Main method started
+14:46:32.644 [main] INFO  Mobile.DemoDailer.OpenDialerAVD - Start setting desired capabitlies
+14:46:32.645 [main] INFO  Mobile.DemoDailer.OpenDialerAVD - Matches the server url
+14:46:37.171 [main] INFO  Mobile.DemoDailer.OpenDialerAVD - Exception From: Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: 'app' option is required for reinstall
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-7AKMRUB', ip: '192.168.1.14', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: 'app' option is required for reinstall
+    at getResponseForW3CError (C:\Program Files\Appium Server GUI\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Program Files\Appium Server GUI\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:380:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-7AKMRUB', ip: '192.168.1.14', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: driver.version: AndroidDriver
+14:51:10.830 [main] INFO  Mobile.DemoDailer.OpenDialerAVD - Main method started
+14:51:10.842 [main] INFO  Mobile.DemoDailer.OpenDialerAVD - Start setting desired capabitlies
+14:51:10.849 [main] INFO  Mobile.DemoDailer.OpenDialerAVD - Matches the server url
+14:51:14.085 [main] INFO  Mobile.DemoDailer.OpenDialerAVD - Exception From: Connection refused: no further information
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-7AKMRUB', ip: '192.168.1.14', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: driver.version: AndroidDriver
+14:51:38.457 [main] INFO  Mobile.DemoDailer.OpenDialerAVD - Main method started
+14:51:38.471 [main] INFO  Mobile.DemoDailer.OpenDialerAVD - Start setting desired capabitlies
+14:51:38.475 [main] INFO  Mobile.DemoDailer.OpenDialerAVD - Matches the server url
+14:51:54.510 [main] INFO  Mobile.DemoDailer.OpenDialerAVD - Started dndroid driver
+14:51:59.183 [main] INFO  Mobile.DemoDailer.OpenDialerAVD - Driver quit
+14:52:45.820 [main] INFO  Mobile.DemoDailer.Dailer - Main methods started
+14:52:45.828 [main] INFO  Mobile.DemoDailer.Dailer - Start to set capabilities
+14:52:45.831 [main] INFO  Mobile.DemoDailer.Dailer - Server url matched
+14:52:56.245 [main] INFO  Mobile.DemoDailer.Dailer - Started the Android Driver
+14:57:11.554 [main] INFO  Mobile.DemoDailer.Dailer - Main methods started
+14:57:11.561 [main] INFO  Mobile.DemoDailer.Dailer - Start to set capabilities
+14:57:11.562 [main] INFO  Mobile.DemoDailer.Dailer - Server url matched
+14:57:24.704 [main] INFO  Mobile.DemoDailer.Dailer - Started the Android Driver
+14:59:29.225 [main] INFO  Mobile.DemoDailer.Dailer - Main methods started
+14:59:29.234 [main] INFO  Mobile.DemoDailer.Dailer - Start to set capabilities
+14:59:29.235 [main] INFO  Mobile.DemoDailer.Dailer - Server url matched
+14:59:39.502 [main] INFO  Mobile.DemoDailer.Dailer - Started the Android Driver
+15:03:16.831 [main] INFO  Mobile.DemoDailer.Dailer - Main methods started
+15:03:16.841 [main] INFO  Mobile.DemoDailer.Dailer - Start to set capabilities
+15:03:16.842 [main] INFO  Mobile.DemoDailer.Dailer - Server url matched
+15:03:25.776 [main] INFO  Mobile.DemoDailer.Dailer - Started the Android Driver
+15:03:30.779 [main] INFO  Mobile.DemoDailer.Dailer - Methods called: callDailNumber
+15:12:12.622 [main] INFO  Mobile.DemoDailer.Dailer - Main methods started
+15:12:12.629 [main] INFO  Mobile.DemoDailer.Dailer - Start to set capabilities
+15:12:12.630 [main] INFO  Mobile.DemoDailer.Dailer - Server url matched
+15:12:29.271 [main] INFO  Mobile.DemoDailer.Dailer - Started the Android Driver
+15:12:34.273 [main] INFO  Mobile.DemoDailer.Dailer - Methods called: callDailNumber
+15:12:34.406 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the dialer button
+15:12:38.392 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 1
+15:12:41.964 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 2
+15:12:45.612 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 3
+15:13:00.934 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 4
+15:13:05.509 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 5
+15:13:09.830 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 6
+15:13:16.709 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 8
+15:13:21.642 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 7
+15:13:43.010 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 9
+15:13:48.745 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 0
+15:19:47.399 [main] INFO  Mobile.DemoDailer.Dailer - Main methods started
+15:19:47.409 [main] INFO  Mobile.DemoDailer.Dailer - Start to set capabilities
+15:19:47.412 [main] INFO  Mobile.DemoDailer.Dailer - Server url matched
+15:20:04.352 [main] INFO  Mobile.DemoDailer.Dailer - Started the Android Driver
+15:20:09.356 [main] INFO  Mobile.DemoDailer.Dailer - Methods called: callDailNumber
+15:20:09.449 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the dialer button
+15:20:13.057 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 1
+15:20:15.140 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 2
+15:20:17.076 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 3
+15:20:18.570 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 4
+15:20:20.079 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 5
+15:20:22.521 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 6
+15:20:24.802 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 8
+15:20:28.384 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 7
+15:20:32.230 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 9
+15:20:33.848 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 0
+15:20:36.042 [main] INFO  Mobile.DemoDailer.Dailer - Dial number is: 1 234-568-790
+15:27:21.590 [main] INFO  Mobile.DemoDailer.Dailer - Main methods started
+15:27:21.597 [main] INFO  Mobile.DemoDailer.Dailer - Start to set capabilities
+15:27:21.598 [main] INFO  Mobile.DemoDailer.Dailer - Server url matched
+15:27:35.204 [main] INFO  Mobile.DemoDailer.Dailer - Started the Android Driver
+15:27:40.207 [main] INFO  Mobile.DemoDailer.Dailer - Methods called: callDailNumber
+15:27:40.315 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the dialer button
+15:27:43.962 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 1
+15:27:45.857 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 2
+15:27:47.487 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 3
+15:27:50.115 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 4
+15:27:53.457 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 5
+15:27:57.494 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 6
+15:27:59.237 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 8
+15:28:02.313 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 7
+15:28:07.583 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 9
+15:28:09.199 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 0
+15:28:12.609 [main] INFO  Mobile.DemoDailer.Dailer - Dial number is: 1 234-568-790
+15:28:15.068 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the call button
+15:29:09.156 [main] INFO  Mobile.DemoDailer.Dailer - Main methods started
+15:29:09.164 [main] INFO  Mobile.DemoDailer.Dailer - Start to set capabilities
+15:29:09.166 [main] INFO  Mobile.DemoDailer.Dailer - Server url matched
+15:29:25.994 [main] INFO  Mobile.DemoDailer.Dailer - Started the Android Driver
+15:29:30.997 [main] INFO  Mobile.DemoDailer.Dailer - Methods called: callDailNumber
+15:29:31.081 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the dialer button
+15:29:34.854 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 1
+15:29:36.544 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 2
+15:29:39.687 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 3
+15:29:40.291 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 4
+15:29:43.383 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 5
+15:29:46.638 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 6
+15:29:48.311 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 8
+15:29:50.280 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 7
+15:29:52.688 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 9
+15:29:55.710 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 0
+15:29:57.773 [main] INFO  Mobile.DemoDailer.Dailer - Dial number is: 1 234-568-790
+15:30:01.839 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the call button
+15:32:10.949 [main] INFO  Mobile.DemoDailer.Dailer - Main methods started
+15:32:10.960 [main] INFO  Mobile.DemoDailer.Dailer - Start to set capabilities
+15:32:10.964 [main] INFO  Mobile.DemoDailer.Dailer - Server url matched
+15:32:28.397 [main] INFO  Mobile.DemoDailer.Dailer - Started the Android Driver
+15:32:33.398 [main] INFO  Mobile.DemoDailer.Dailer - Methods called: callDailNumber
+15:32:33.484 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the dialer button
+15:32:37.208 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 1
+15:32:39.555 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 2
+15:32:40.738 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 3
+15:32:41.705 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 4
+15:32:44.472 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 5
+15:32:47.764 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 6
+15:32:51.198 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 8
+15:32:54.872 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 7
+15:32:58.032 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 9
+15:32:58.964 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 0
+15:33:02.200 [main] INFO  Mobile.DemoDailer.Dailer - Dial number is: 1234568790
+15:33:04.790 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the call button
+16:00:34.946 [main] INFO  Mobile.DemoDailer.Dailer - Main methods started
+16:00:34.955 [main] INFO  Mobile.DemoDailer.Dailer - Start to set capabilities
+16:00:34.957 [main] INFO  Mobile.DemoDailer.Dailer - Server url matched
+16:01:11.924 [main] INFO  Mobile.DemoDailer.Dailer - Main methods started
+16:01:11.934 [main] INFO  Mobile.DemoDailer.Dailer - Start to set capabilities
+16:01:11.935 [main] INFO  Mobile.DemoDailer.Dailer - Server url matched
+16:01:27.927 [main] INFO  Mobile.DemoDailer.Dailer - Started the Android Driver
+16:01:33.202 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the recentTab 
+16:01:35.208 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the contactTab 
+16:01:36.015 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the voiceMailTab 
+16:01:36.967 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the favoriteTab 
+16:01:37.627 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the dialer button
+16:01:41.725 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the starSign 
+16:01:42.277 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the hashSign 
+16:01:44.182 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 0
+16:01:44.739 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the deleteButton 
+16:05:42.086 [main] INFO  Mobile.DemoDailer.Dailer - Main methods started
+16:05:42.095 [main] INFO  Mobile.DemoDailer.Dailer - Start to set capabilities
+16:05:42.097 [main] INFO  Mobile.DemoDailer.Dailer - Server url matched
+16:05:54.394 [main] INFO  Mobile.DemoDailer.Dailer - Started the Android Driver
+16:05:59.570 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the recentTab 
+16:06:01.322 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the contactTab 
+16:06:02.344 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the voiceMailTab 
+16:06:03.375 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the favoriteTab 
+16:06:04.427 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the dialer button
+16:06:08.549 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the starSign 
+16:06:10.030 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the hashSign 
+16:06:11.555 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 0
+16:06:12.099 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the deleteButton 
+16:06:13.042 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the device back button
+16:07:32.405 [main] INFO  Mobile.DemoDailer.Dailer - Main methods started
+16:07:32.411 [main] INFO  Mobile.DemoDailer.Dailer - Start to set capabilities
+16:07:32.413 [main] INFO  Mobile.DemoDailer.Dailer - Server url matched
+16:07:41.337 [main] INFO  Mobile.DemoDailer.Dailer - Started the Android Driver
+16:07:46.338 [main] INFO  Mobile.DemoDailer.Dailer - Methods called: callDailNumber
+16:07:46.428 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the dialer button
+16:07:50.041 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 1
+16:07:50.654 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 2
+16:07:51.609 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 3
+16:07:52.581 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 4
+16:07:54.465 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 5
+16:07:55.963 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 6
+16:07:56.599 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 8
+16:07:57.589 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 7
+16:07:58.563 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 9
+16:07:59.558 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 0
+16:08:01.392 [main] INFO  Mobile.DemoDailer.Dailer - Dial number is: 1234568790
+16:08:02.464 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the call button
+16:08:49.621 [main] INFO  Mobile.DemoDailer.Dailer - Main methods started
+16:08:49.630 [main] INFO  Mobile.DemoDailer.Dailer - Start to set capabilities
+16:08:49.632 [main] INFO  Mobile.DemoDailer.Dailer - Server url matched
+16:09:00.241 [main] INFO  Mobile.DemoDailer.Dailer - Started the Android Driver
+16:09:05.243 [main] INFO  Mobile.DemoDailer.Dailer - Methods called: callDailNumber
+16:09:05.374 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the dialer button
+16:09:30.056 [main] INFO  Mobile.DemoDailer.Dailer - Main methods started
+16:09:30.073 [main] INFO  Mobile.DemoDailer.Dailer - Start to set capabilities
+16:09:30.079 [main] INFO  Mobile.DemoDailer.Dailer - Server url matched
+16:09:40.891 [main] INFO  Mobile.DemoDailer.Dailer - Started the Android Driver
+16:09:45.893 [main] INFO  Mobile.DemoDailer.Dailer - Methods called: callDailNumber
+16:09:46.049 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the dialer button
+16:09:49.692 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 1
+16:09:50.296 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 2
+16:09:51.287 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 3
+16:09:52.273 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 4
+16:09:53.250 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 5
+16:09:55.143 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 6
+16:09:55.735 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 8
+16:09:57.636 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 7
+16:09:58.234 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 9
+16:10:00.129 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 0
+16:10:01.359 [main] INFO  Mobile.DemoDailer.Dailer - Dial number is: 1234568790
+16:10:02.461 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the call button
+16:13:45.282 [main] INFO  Mobile.DemoDailer.Dailer - Main methods started
+16:13:45.289 [main] INFO  Mobile.DemoDailer.Dailer - Start to set capabilities
+16:13:45.290 [main] INFO  Mobile.DemoDailer.Dailer - Server url matched
+16:13:54.071 [main] INFO  Mobile.DemoDailer.Dailer - Started the Android Driver
+16:13:59.073 [main] INFO  Mobile.DemoDailer.Dailer - Methods called: callDailNumber
+16:13:59.156 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the dialer button
+16:14:02.860 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 1
+16:14:04.346 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 2
+16:14:04.914 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 3
+16:14:05.899 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 4
+16:14:07.835 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 5
+16:14:09.338 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 6
+16:14:10.841 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 8
+16:14:11.433 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 7
+16:14:12.430 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 9
+16:14:13.385 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 0
+16:14:14.839 [main] INFO  Mobile.DemoDailer.Dailer - Dial text is: 1234568790
+16:14:15.925 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the call button
+16:16:05.635 [main] INFO  Mobile.DemoDailer.Dailer - Main methods started
+16:16:05.643 [main] INFO  Mobile.DemoDailer.Dailer - Start to set capabilities
+16:16:05.644 [main] INFO  Mobile.DemoDailer.Dailer - Server url matched
+16:16:14.296 [main] INFO  Mobile.DemoDailer.Dailer - Started the Android Driver
+16:16:19.297 [main] INFO  Mobile.DemoDailer.Dailer - Methods called: callDailNumber
+16:16:19.417 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the dialer button
+16:16:23.148 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 1
+16:16:23.757 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 2
+16:16:24.708 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 3
+16:16:25.743 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 4
+16:16:27.689 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 5
+16:16:28.284 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 6
+16:16:29.323 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 8
+16:16:30.298 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 7
+16:16:32.193 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 9
+16:16:33.693 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 0
+16:16:34.759 [main] INFO  Mobile.DemoDailer.Dailer - Dial text is: 1234568790
+16:16:35.852 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the call button
+16:16:35.852 [main] INFO  Mobile.DemoDailer.Dailer - Dail text: 1234568790 and input number: 1234568790
+16:20:33.504 [main] INFO  Mobile.DemoDailer.Dailer - Main methods started
+16:20:33.514 [main] INFO  Mobile.DemoDailer.Dailer - Start to set capabilities
+16:20:33.515 [main] INFO  Mobile.DemoDailer.Dailer - Server url matched
+16:20:42.647 [main] INFO  Mobile.DemoDailer.Dailer - Started the Android Driver
+16:20:47.648 [main] INFO  Mobile.DemoDailer.Dailer - Methods called: callDailNumber
+16:20:47.749 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the dialer button
+16:20:51.454 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 1
+16:20:52.051 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 2
+16:20:53.038 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 3
+16:20:54.003 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 4
+16:20:55.883 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 5
+16:20:57.367 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 6
+16:20:57.952 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 8
+16:20:59.843 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 7
+16:21:01.802 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 9
+16:21:03.306 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 0
+16:21:04.371 [main] INFO  Mobile.DemoDailer.Dailer - Dial text is: 1234568790
+16:21:05.449 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the call button
+16:21:05.449 [main] INFO  Mobile.DemoDailer.Dailer - Dail text: 1234568790 and input number: 1234568790
+16:22:06.961 [main] INFO  Mobile.DemoDailer.Dailer - Main methods started
+16:22:06.970 [main] INFO  Mobile.DemoDailer.Dailer - Start to set capabilities
+16:22:06.972 [main] INFO  Mobile.DemoDailer.Dailer - Server url matched
+16:22:16.160 [main] INFO  Mobile.DemoDailer.Dailer - Started the Android Driver
+16:22:21.161 [main] INFO  Mobile.DemoDailer.Dailer - Methods called: callDailNumber
+16:22:21.259 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the dialer button
+16:22:24.987 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 1
+16:22:25.579 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 2
+16:22:27.461 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 3
+16:22:28.965 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 4
+16:22:30.457 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 5
+16:22:31.042 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 6
+16:22:32.082 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 8
+16:22:33.063 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 7
+16:22:34.055 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 9
+16:22:35.938 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on digit 0
+16:22:36.996 [main] INFO  Mobile.DemoDailer.Dailer - Dial text is: 1234568790
+16:22:38.064 [main] INFO  Mobile.DemoDailer.Dailer - Clicked on the call button
+16:22:38.064 [main] INFO  Mobile.DemoDailer.Dailer - Dail text: 1234568790 and input number: 1234568790
+16:30:19.674 [main] INFO  Mobile.DemoDailer.Dailer2 - Main methods started
+16:30:19.684 [main] INFO  Mobile.DemoDailer.Dailer2 - Start to set capabilities
+16:30:19.686 [main] INFO  Mobile.DemoDailer.Dailer2 - Server url matched
+16:30:28.546 [main] INFO  Mobile.DemoDailer.Dailer2 - Started the Android Driver
+16:30:33.546 [main] INFO  Mobile.DemoDailer.Dailer2 - Methods called: callDailNumber
+16:30:33.665 [main] INFO  Mobile.DemoDailer.Dailer2 - Clicked on the dialer button
+16:30:37.434 [main] INFO  Mobile.DemoDailer.Dailer2 - Clicked on digit 1
+16:30:38.036 [main] INFO  Mobile.DemoDailer.Dailer2 - Clicked on digit 2
+16:30:39.003 [main] INFO  Mobile.DemoDailer.Dailer2 - Clicked on digit 3
+16:30:40.923 [main] INFO  Mobile.DemoDailer.Dailer2 - Clicked on digit 4
+16:30:42.445 [main] INFO  Mobile.DemoDailer.Dailer2 - Clicked on digit 5
+16:30:43.034 [main] INFO  Mobile.DemoDailer.Dailer2 - Clicked on digit 6
+16:30:44.930 [main] INFO  Mobile.DemoDailer.Dailer2 - Clicked on digit 8
+16:30:45.512 [main] INFO  Mobile.DemoDailer.Dailer2 - Clicked on digit 7
+16:30:46.679 [main] INFO  Mobile.DemoDailer.Dailer2 - Clicked on digit 9
+16:30:48.480 [main] INFO  Mobile.DemoDailer.Dailer2 - Clicked on digit 0
+16:30:50.349 [main] INFO  Mobile.DemoDailer.Dailer2 - Dial text is: 1234568790
+16:30:51.456 [main] INFO  Mobile.DemoDailer.Dailer2 - Clicked on the call button
+16:30:51.456 [main] INFO  Mobile.DemoDailer.Dailer2 - Dail text: 1234568790 and input number: 1234568790
+16:31:39.942 [main] INFO  Mobile.DemoDailer.Dailer2 - Main methods started
+16:31:39.951 [main] INFO  Mobile.DemoDailer.Dailer2 - Start to set capabilities
+16:31:39.953 [main] INFO  Mobile.DemoDailer.Dailer2 - Server url matched
+16:31:50.011 [main] INFO  Mobile.DemoDailer.Dailer2 - Started the Android Driver
+16:31:55.209 [main] INFO  Mobile.DemoDailer.Dailer2 - Clicked on the recentTab 
+16:31:57.893 [main] INFO  Mobile.DemoDailer.Dailer2 - Clicked on the contactTab 
+16:31:58.934 [main] INFO  Mobile.DemoDailer.Dailer2 - Clicked on the voiceMailTab 
+16:31:59.966 [main] INFO  Mobile.DemoDailer.Dailer2 - Clicked on the favoriteTab 
+16:32:01.021 [main] INFO  Mobile.DemoDailer.Dailer2 - Clicked on the dialer button
+16:32:05.117 [main] INFO  Mobile.DemoDailer.Dailer2 - Clicked on the starSign 
+16:32:05.670 [main] INFO  Mobile.DemoDailer.Dailer2 - Clicked on the hashSign 
+16:32:06.661 [main] INFO  Mobile.DemoDailer.Dailer2 - Clicked on digit 0
+16:32:07.589 [main] INFO  Mobile.DemoDailer.Dailer2 - Clicked on the deleteButton 
+16:32:08.565 [main] INFO  Mobile.DemoDailer.Dailer2 - Clicked on the device back button
